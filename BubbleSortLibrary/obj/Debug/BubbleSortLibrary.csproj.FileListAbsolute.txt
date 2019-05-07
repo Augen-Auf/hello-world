@@ -1,0 +1,6 @@
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\BubbleSortLibrary\bin\Debug\BubbleSortLibrary.dll
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\BubbleSortLibrary\bin\Debug\BubbleSortLibrary.pdb
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\BubbleSortLibrary\obj\Debug\BubbleSortLibrary.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\BubbleSortLibrary\obj\Debug\BubbleSortLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\BubbleSortLibrary\obj\Debug\BubbleSortLibrary.dll
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\BubbleSortLibrary\obj\Debug\BubbleSortLibrary.pdb
